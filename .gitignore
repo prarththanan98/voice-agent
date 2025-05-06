@@ -1,16 +1,16 @@
+__pycache__/
+.env
 *.log
 *.pot
 *.pyc
-__pycache__/
-.env
 
-# Environments
+
 .venv
 env/
 venv/
-ENV/
-env.bak/
 venv.bak/
 *.manifest
+ENV/
+env.bak/
 *.spec
 

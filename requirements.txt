@@ -1,6 +1,6 @@
-python-dotenv
-sounddevice
-soundfile
-scipy
-openai
-pydub
+python-dotenv==1.1.0
+sounddevice==0.5.1
+soundfile==0.13.1
+scipy==1.15.2
+openai==1.77.0
+pydub==0.25.1
